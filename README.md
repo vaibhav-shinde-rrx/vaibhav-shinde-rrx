@@ -36,3 +36,12 @@
 📜 **Certifications**
 
 - 🧠 Complete Machine Learning Program – GeeksforGeeks
+
+---
+
+📬 **Reach Me**
+
+- 📧 **Email** : [vaibhavbalasaheb.shinde@regalrexnord.com](mailto:vaibhavbalasaheb.shinde@regalrexnord.com)
+- 🖇️ **LinkedIn** : [linkedin.com/in/vaibhav-shinde-9451ab23b](www.linkedin.com/in/vaibhav-shinde-9451ab23b)
+
+---
