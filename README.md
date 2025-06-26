@@ -23,29 +23,16 @@
 
 ---
 
-🧩 **Projects I'm Proud Of**
-
-- 🎬 **Netflix Clone**  
-  _React.js • Tailwind CSS • Redux_  
-  Built a modern, responsive Netflix-style web app with seamless UI/UX and content browsing.
-
-- 🏡 **Real Estate Analytics App**  
-  _Streamlit • Scikit-learn • Recommender System_  
-  Data-driven insights for investors — price prediction, market trends & personalized suggestions.
-
----
-
 🛠️ **Tech Stack**
 
-```txt
-💻 Languages:   Python | Java | JavaScript | C++ | SQL
-🌐 Frontend:    React | Tailwind CSS | HTML
-🧩 Backend:     Spring Boot | REST APIs 
-🧠 AI/ML:       Scikit-learn | Pandas | NumPy | Streamlit | Agno
-🗄️ Database:    MySQL | MongoDB
-🎨 UI/UX:       Figma
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,js,py,react,vite,tailwind,css,html,spring,nodejs,postman,git,github,fastapi,figma,mongodb,mysql,sklearn" />
+  </a>
+</p>
+
 ---
+
 📜 **Certifications**
 
 - 🧠 Complete Machine Learning Program – GeeksforGeeks
