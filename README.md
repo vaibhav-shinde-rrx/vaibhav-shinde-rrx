@@ -13,7 +13,7 @@
 
 ---
 
-🌟 **About Me**
+## 🌟About Me
 
 - 🤖 AI/ML Intern at <img src="/RRX_Logo_Regal_Rexnord_TM_RGB.png" height="14" style="vertical-align: middle; position: relative; top: 2px; margin: 0 6px; border-radius: 4px;" />
 - ⚙️ Working on Generative AI and Frontend
@@ -23,13 +23,38 @@
 
 ---
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,js,py,react,vite,tailwind,css,html,spring,nodejs,postman,git,github,fastapi,figma,mongodb,mysql,sklearn" />
   </a>
 </p>
+
+---
+
+## 🚀 Projects
+
+--
+🧠 **QA Testing Agent**
+
+A powerful AI-driven automation tool that simplifies the QA process by transforming **user stories into Gherkin BDD test scenarios**, and further into **automation-ready test scripts**. It streamlines the end-to-end quality assurance pipeline for faster, more reliable testing.
+
+**🔧 Key Features**
+- 📝 Converts natural language **user stories** into structured **Gherkin BDD** format using an intelligent parsing model.
+- 🧪 Generates **automated test scripts** from BDD scenarios, ready for integration with popular testing frameworks.
+- 🤖 Built with the **Agno Framework** to enable intelligent agent behavior and deep language understanding.
+
+**🛠️ Tech Stack**
+- **Frontend**: React.js (Vite + TailwindCSS)
+- **Backend**: FastAPI
+- **AI Agent**: Agno Framework
+- **Testing/Utilities**: Postman
+
+> 💡 Designed to boost productivity for QA engineers, developers, and product teams by reducing manual testing effort and increasing test coverage through automation.
+
+
+
 
 ---
 
